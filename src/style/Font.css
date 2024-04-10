@@ -1,0 +1,48 @@
+.f-s-l {
+    font-size: large;
+}
+
+.f-s-xl {
+    font-size: x-large;
+}
+
+.f-s-xxl {
+    font-size: xxx-large;
+
+}
+
+.f-w-b {
+    font-weight: bold;
+}
+
+.dis-flex {
+    display: flex;
+}
+
+.dis-gird {
+    display: grid;
+}
+
+.dsp-in-block {
+    display: inline-block;
+
+}
+
+.grd-temp-col {
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+
+}
+
+.flex-dire {
+    flex-direction: column;
+}
+
+
+.vertical-text-container {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.vertical-text {
+    writing-mode: vertical-lr;
+}

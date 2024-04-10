@@ -1,0 +1,12 @@
+.moving-text {
+    animation: moveText 4s linear infinite alternate; /* Adjust the animation duration as needed */
+}
+
+@keyframes moveText {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(100%);
+    }
+}
