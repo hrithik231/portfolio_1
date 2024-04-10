@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="" style={{ backgroundColor: "black", padding:"1.4%" }}>
       <Front />
+      
     </div>
   );
 }
