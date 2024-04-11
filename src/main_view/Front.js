@@ -1,5 +1,4 @@
 import { ReactComponent as LightningIcon } from '../style/svg_icons/lightning-lightning-svgrepo-com.svg';
-import { GiRamProfile } from "react-icons/gi";
 import { useState, useEffect } from 'react';
 import "../style/Animation/highlight.css";
 import Icons from '../main_view/Icons';

@@ -3,9 +3,6 @@ import "../style/Common.css";
 import "../style/Position.css";
 import WatchingList from "./WatchingList";
 import { IoLogoElectron } from "react-icons/io5";
-import Button from 'react-bootstrap/Button';
-import Card from 'react-bootstrap/Card';
-import music from '../style/Images/music.jpg';
 
 export default function Details() {
 

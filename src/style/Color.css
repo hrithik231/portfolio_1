@@ -12,6 +12,10 @@
     color: white;
 }
 
+.clr-blue{
+    color: #9595ff;
+}
+
 .clr-yellow {
     color: rgb(250, 197, 70);
 }
@@ -31,6 +35,8 @@
 .bg-color-orange{
     background-color: orange;
 }
+
+
 
 /* .insta-colo {
     background: linear-gradient(135deg, #405DE6 0%, #5851DB 50%, #833AB4 100%);
